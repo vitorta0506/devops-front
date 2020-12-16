@@ -10,8 +10,8 @@ const dev = {
 const staging = {
   NAME: "Staging Mode",
   // API_URL: "http://staging.questcode.org",
-  API_URL: "http://questcode.org:30020",
-  API_URL_SCM: "http://questcode.org:30030",
+  API_URL: "http://k8s.vtainfo.com.br:30081",
+  API_URL_SCM: "http://k8s.vtainfo.com.br:30082",
   s3: {
     BUCKET: "YOUR_DEV_S3_UPLOADS_BUCKET_NAME"
   }
